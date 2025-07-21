@@ -1,2 +1,2 @@
 # convertidor-coordenadas-vectores
-Mi primer proyecto en la universidad, desarrollado en Nivelación (PAO 0).
+Desarrollado en Visual Basic 6.0
