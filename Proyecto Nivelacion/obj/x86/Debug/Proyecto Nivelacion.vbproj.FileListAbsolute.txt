@@ -1,0 +1,42 @@
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Proyecto Nivelacion.vbproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.exe.manifest
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.application
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.exe
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.pdb
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.xml
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.exe.manifest
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.application
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.exe
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.xml
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.pdb
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.exe.config
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Proyecto Nivelacion.vbproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Proyecto Nivelacion.vbproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.exe.config
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.exe.manifest
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.application
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.exe
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.pdb
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\bin\Debug\Calculadora de Vectores.xml
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Proyecto Nivelacion.vbproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Proyecto Nivelacion.vbproj.GenerateResource.cache
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Proyecto Nivelacion.vbproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.exe.manifest
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.application
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.exe
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.xml
+C:\Users\Paul\Desktop\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Debug\Calculadora de Vectores.pdb

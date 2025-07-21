@@ -1,0 +1,18 @@
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Release\Calculadora de Vectores.exe.manifest
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Release\Calculadora de Vectores.application
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Release\Calculadora de Vectores.exe
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Release\Calculadora de Vectores.pdb
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\bin\Release\Calculadora de Vectores.xml
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Form5.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Form6.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\Proyecto Nivelacion.vbproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\Calculadora de Vectores.exe.manifest
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\Calculadora de Vectores.application
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\Calculadora de Vectores.exe
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\Calculadora de Vectores.xml
+C:\Users\Paul\Desktop\Calculadora Convertidora de Vectores\Proyecto Nivelacion\Proyecto Nivelacion\obj\x86\Release\Calculadora de Vectores.pdb
