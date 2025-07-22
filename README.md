@@ -1,2 +1,2 @@
 ># Convertidor de Coordenadas de Vectores
-Desarrollado en Visual Basic
+* Desarrollado en Visual Basic
